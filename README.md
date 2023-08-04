@@ -24,4 +24,4 @@ predicting inflation rates.
 6. The code should works now. Enjoy!
 
 # Github Repo URL
-https://github.com/YapMingYee/Inflation-Rate-Prediction-System.git
+https://github.com/YMingYee/https---github.com-YMingYee-Inflation-Prediction-Dashboard.git
